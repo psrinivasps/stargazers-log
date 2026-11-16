@@ -1,0 +1,23 @@
+[
+  {
+    "owner": "sindresorhus",
+    "name": "awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredAt": "2025-03-14"
+  },
+  {
+    "owner": "vercel",
+    "name": "next.js",
+    "description": "The React framework for production.",
+    "url": "https://github.com/vercel/next.js",
+    "starredAt": "2025-02-02"
+  },
+  {
+    "owner": "microsoft",
+    "name": "TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "starredAt": "2025-01-19"
+  }
+]
